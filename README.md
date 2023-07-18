@@ -1,6 +1,7 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hello there 👋</h1>
 
-**My name's Roberto, and I have completed the first big step on my coding journey by completing the transformative School of Code Bootcamp.**
+**My name's Roberto, and I have made the first big step on my coding journey by completing the transformative School of Code Bootcamp.**
+
 
 
 Before starting to code, I worked on a wide range of musical
