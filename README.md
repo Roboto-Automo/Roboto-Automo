@@ -6,7 +6,7 @@
 Looking forward to making lots of cool projects and uploading them here!
 
 
-
+<center>
 ## 🛠 Skills
 |Languages            |
 | :------------------------- |
@@ -27,6 +27,8 @@ Looking forward to making lots of cool projects and uploading them here!
 |App I use too much        |
 | :------------------------- |
 ![deliveroo](https://img.shields.io/badge/Deliveroo-00CCBC?style=for-the-badge&logo=Deliveroo&logoColor=white)
+
+</center>
 
 
 
