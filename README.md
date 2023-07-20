@@ -22,7 +22,14 @@ on my piano and accordion.
 Looking forward to making lots of cool projects and uploading them here!
 
 <br>
+<div align="center">
+  
+**Please check out -CONSENSUS- the 5-week, School of Code final project I helped to build!**
 
+[Deployed App](https://consensusgpt.netlify.app/)
+
+[Video Demonstration](https://www.youtube.com/watch?v=PBnj64zxD_E)
+</div>
 
 <h1 align="center">Skills   🛠 </h1>
 
